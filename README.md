@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm Charles
 
-<!--
-**charlescol/charlescol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Back-end Engineer | API Development & Integration
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m a backend engineer with a focus on API development, microservices integration, and cloud-based solutions. I enjoy building efficient, scalable, and well-documented tools that address real-world challenges in backend development and data management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 My Areas of Expertise
+
+- **Backend Development**
+- **API Integration**
+- **Distributed Systems**
+- **Cloud Services**
+
+---
