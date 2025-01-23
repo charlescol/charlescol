@@ -1,1 +1,1 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=👋 Hello World &width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Développeur+Web;Passionné+de+Technologie)](https://git.io/typing-svg)
