@@ -1,1 +1,1 @@
-[![Email](https://img.shields.io/badge/Email-charlescol@hotmail.fr-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@charlescolella.com)
+[![Email](https://img.shields.io/badge/Email-contact@charlescolella.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@charlescolella.com)
